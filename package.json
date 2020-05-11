@@ -14,17 +14,16 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shrikantpadhy18/myweb.git"
+    "url": "git+https://github.com/shrikantpadhy18/Portfolio.git"
   },
   "author": "shrikantpadhy18",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shrikantpadhy18/myweb/issues"
+    "url": "https://github.com/shrikantpadhy18/Portfolio.git/issues"
   },
-  "homepage": "https://github.com/shrikantpadhy18/myweb#readme"
+  "homepage": "https://github.com/shrikantpadhy18/Portfolio#readme"
 }
