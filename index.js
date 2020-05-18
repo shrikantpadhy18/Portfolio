@@ -44,8 +44,8 @@ app.post("/addname", (req, res) => {
   var mailoptions={
     from:'prashantpadhy21@gmail.com',
     to:'shrikantpadhy18@gmail.com',
-    subject:'Sender Name='+JSON.stringify(Name)+'\n Subject ='+JSON.stringify(Subject),
-    text:'My Message='+JSON.stringify(Message)+'\n My Email='+JSON.stringify(Email)
+    subject:'Name='+JSON.stringify(Name)+JSON.stringify(Subject),
+    text:'My Message='+JSON.stringify(Message)+' My Email='+JSON.stringify(Email)
 
   };
   

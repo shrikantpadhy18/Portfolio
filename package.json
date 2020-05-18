@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start":"index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shrikantpadhy18/Portfolio.git"
   },
-  "author": "SHRIKANT PADHY",
+  "author": "Shrikant Padhy",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shrikantpadhy18/Portfolio/issues"
